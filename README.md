@@ -1,1 +1,1 @@
-# Play with Docker
+# chroot ldd lib
